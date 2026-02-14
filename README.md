@@ -1,50 +1,31 @@
-# Hi, I'm Rumit 👋
-
-Full-Stack Developer | JavaScript Specialist | Currently mastering TypeScript  
-Building scalable web applications and backend systems.
+<h1 align="center">Rumit Koladiya</h1>
+<p align="center">Full-Stack Developer · JavaScript (Advanced) · TypeScript · DevOps</p>
 
 ---
 
-## 🚀 Professional Focus
+## Stack
 
-- Writing production-level JavaScript
-- Deepening expertise in TypeScript
-- Designing scalable backend architectures
-- Learning DevOps & Cloud infrastructure (AWS, Docker, CI/CD)
-- Improving System Design & DSA
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,mysql,docker,aws,githubactions" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## Focus
 
-### Frontend
-- React
-- Next.js
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-- MySQL
-
-### DevOps & Cloud
-- Docker
-- AWS
-- CI/CD
-
-### Languages
-- JavaScript (Advanced)
-- TypeScript (Learning & Applying)
-- Java
+- Scalable backend systems
+- TypeScript mastery
+- System design fundamentals
+- CI/CD & cloud deployments
 
 ---
 
-## 📈 2026 Goals
+## Stats
 
-- Build production-ready full-stack systems
-- Implement scalable authentication & payment flows
-- Deploy applications with complete CI/CD pipelines
-- Contribute to open-source projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rumitkoladiya&show_icons=true&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumitkoladiya&theme=tokyonight&hide_border=true" />
+</p>
